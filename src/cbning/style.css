@@ -1,0 +1,13 @@
+.custom-chatbot .message {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+.custom-textbox textarea {
+    font-size: 16px;
+}
+
+.custom-interpretation textarea {
+    font-size: 16px;
+}
